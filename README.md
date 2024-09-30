@@ -26,7 +26,7 @@ schools = pd.read_csv("schools.csv")
 #Preview the data
 schools.head()
 ```
-![image](https://github.com/user-attachments/assets/18202d32-2acb-488e-a6c4-64e69d6df6c1)
+![image](https://github.com/user-attachments/assets/a58ad293-6499-4678-8c88-f92ae8436137)
 ![image](https://github.com/user-attachments/assets/33bb4fdc-bc87-4ca2-b623-5d936566663d)
 
 ## 1) Which NYC schools have the best math results?
