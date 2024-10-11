@@ -100,4 +100,7 @@ print(largest_std_dev)
 ```
 ![image](https://github.com/user-attachments/assets/60973240-cdcb-4f62-93bb-bb3c11afc966)
 
+**REFERENCES**
+1) DataCamp Certification Page: https://app.datacamp.com/certification/get-started/associate-data-analyst/overview
+
 
